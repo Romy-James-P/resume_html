@@ -9,7 +9,7 @@ body {
   justify-content: center;
   max-width: 800px;
   max-height: 1200px;
-  background-color: white;
+  background-color: black;
 }
 .left-container {
   width: 33%;
@@ -64,7 +64,7 @@ hr {
   width: 30px;
   height: 3px;
   margin-left: 0;
-  background-color: rgb(255, 200, 0);
+  background-color: black;
   border: none;
 }
 .rightSpan {
